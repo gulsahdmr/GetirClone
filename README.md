@@ -1,4 +1,4 @@
 Getir uygulama arayüzü tasarlandı.
- Resim Eklemek
-![alt text](![Screenshot_20240827_091843](https://github.com/user-attachments/assets/7c20cedf-e5d3-431f-bc56-3a2c2caa40d9)
+ 
+![alt text]("C:\Users\pc\OneDrive\Desktop\Screenshot_20240827_091843.png")
 )
