@@ -1,5 +1,5 @@
 Getir uygulama arayüzü tasarlandı.
  
-![Logo](ekran.png)
+![Logo](app/src/main/res/drawable/ekran.png)
 
 
