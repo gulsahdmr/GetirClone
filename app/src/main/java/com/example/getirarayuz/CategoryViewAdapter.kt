@@ -14,6 +14,7 @@ class CategoryViewAdapter(var mcontext: Context, var categoryviewlist: List<Cate
 
     inner class CategoryViewBindingHolder(view: View) : RecyclerView.ViewHolder(view) {
         var categoryName: TextView
+
         var categoryImage: ImageView
 
         init {
