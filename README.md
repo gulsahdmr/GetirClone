@@ -1,0 +1,1 @@
+Getir uygulama arayüzü tasarlandı.
